@@ -22,9 +22,9 @@ This report provides a comprehensive analysis of the SuperStore sales data from 
 
 #### Finding 1: Geographical Imbalance
 The West region is the clear leader in both sales and profitability, while states like Texas and Pennsylvania are massive loss centers.
-*(Yeh chart West/East/Central/South waala hai)*
+
 <img width="688" height="335" alt="image" src="https://github.com/user-attachments/assets/9b58bc85-0742-4116-9e58-66ae880cb3bf" />
-*(Yeh chart Top 10 States waala hai)*
+
 <img width="666" height="275" alt="image" src="https://github.com/user-attachments/assets/787bbcdb-f1e7-413f-939b-6d64d50b4c18" />
 
 #### Finding 2: Strong Seasonal Pattern
